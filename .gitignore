@@ -1,2 +1,5 @@
 .vscode
 .idea
+out/build/
+build/
+CMakeLists.txt
